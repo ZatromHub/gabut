@@ -1,1 +1,8 @@
-{}
+{
+  "apikey1": {
+    "phoneNumber": "628123455788",
+    "name": "User1",
+    "password": "password1",
+    "expiration": "2025-05-01T00:00:00Z"
+   }
+}
